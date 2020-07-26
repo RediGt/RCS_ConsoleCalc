@@ -23,7 +23,7 @@ namespace RCS_ConsoleCalc
             double result = 0;
             string mathSigh;
             bool outOfRangeOperation;
-            bool illegalOperation = false;
+            bool illegalOperation = false; 
 
             first = InputCheckOfDouble();
             mathSigh = InputCheckOfMatgSign();
